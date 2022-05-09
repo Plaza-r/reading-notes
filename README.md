@@ -1,5 +1,7 @@
 # Code 201 Reading-notes
 ## Code 102 Reading notes
+1. fill this line with reading from 102
+  - ex: **what was a important detail
 ### Reading day 1
 - what was this reading about?
 - summary
