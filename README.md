@@ -1,4 +1,4 @@
-# Code 201 Reading-notes
+# Code 201 Reading-notes 📖
 - [ ] first day notes
 - [ ] last day notes
 ## Code 102 Reading notes
