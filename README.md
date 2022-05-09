@@ -1,4 +1,6 @@
 # Code 201 Reading-notes
+- [ ] first day notes
+- [ ] last day notes
 ## Code 102 Reading notes
 1. fill this line with reading from 102
   - ex: **what was a important detail
@@ -7,6 +9,7 @@
 - summary
 - important detail
 ### Reading day 2
+<!-- need to fill in this reading -->
 ### Reading day 3
 ### Reading day 4
 ### Reading day 5
