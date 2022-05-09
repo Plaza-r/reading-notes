@@ -1,7 +1,7 @@
 # Code 201 Reading-notes
 ## Code 102 Reading notes
-### Reading day 1
-### Reading day 2
+###  ** Reading day 1
+###  **Reading day 2
 ### Reading day 3
 ### Reading day 4
 ### Reading day 5
