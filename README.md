@@ -11,7 +11,7 @@
 ### Reading day 2
 <!-- need to fill in this reading -->
 ### Reading day 3
-### Reading day 4
+[### Reading day 4](class-04.md)
 ### Reading day 5
 ### Reading day 6
 ### Read day 7
