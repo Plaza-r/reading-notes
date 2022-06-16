@@ -23,3 +23,10 @@
 ### Read day 13
 ### Read day 14
 ### Read day 15
+
+
+# Code 301 reading-notes 📖
+### Day 1 reading
+### Day 2 reading
+### Day 3 Reading
+[day3](day-3read.md)
