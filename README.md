@@ -30,3 +30,7 @@
 ### Day 2 reading
 ### Day 3 Reading
 [day3](day-3read.md)
+
+
+# Python 401
+### Day 1 Reading
