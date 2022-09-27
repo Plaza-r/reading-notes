@@ -38,4 +38,4 @@
 [day16](class-16.md)
 
 # Sqlbolt prepwork
-[sql](sqlbolt1.png)
+[sql](sqlbolt)
