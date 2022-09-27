@@ -36,3 +36,6 @@
 ### Day 1 Reading
 ### Day 16 reading
 [day16](class-16.md)
+
+# Sqlbolt prepwork
+[sql](sqlbolt1.png)
