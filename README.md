@@ -38,4 +38,4 @@
 [day16](class-16.md)
 
 # Sqlbolt prepwork
-[sql](/home/redcloudz/js/notes/reading-notes/reading-notes/sqlbot)
+[sql](sqlbot/README.md)
